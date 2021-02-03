@@ -15,3 +15,6 @@ this is horizantal line
 - coffee 
 - tea
 
+
+how to open hyper links [apssdc](https://www.apssdc.in/)
+[ciet college](https://www.chalapthiengg.ac.in/)
